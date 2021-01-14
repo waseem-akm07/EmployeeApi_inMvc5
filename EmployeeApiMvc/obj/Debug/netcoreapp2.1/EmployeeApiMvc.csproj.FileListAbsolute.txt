@@ -1,0 +1,13 @@
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\bin\Debug\netcoreapp2.1\EmployeeApiMvc.deps.json
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\bin\Debug\netcoreapp2.1\EmployeeApiMvc.runtimeconfig.json
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\bin\Debug\netcoreapp2.1\EmployeeApiMvc.runtimeconfig.dev.json
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\bin\Debug\netcoreapp2.1\EmployeeApiMvc.dll
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.csproj.CoreCompileInputs.cache
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.RazorAssemblyInfo.cache
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.RazorAssemblyInfo.cs
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.AssemblyInfoInputs.cache
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.AssemblyInfo.cs
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.RazorTargetAssemblyInfo.cache
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\bin\Debug\netcoreapp2.1\EmployeeApiMvc.pdb
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.dll
+E:\Company_Task\EmployeeApiMvc\EmployeeApiMvc\obj\Debug\netcoreapp2.1\EmployeeApiMvc.pdb
